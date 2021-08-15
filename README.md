@@ -1,2 +1,2 @@
-# CS-GO-aimbot
+# CS-GO-Triggerbot
 New cs go aimbot 
